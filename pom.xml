@@ -8,7 +8,7 @@
     <artifactId>zora-blog-project</artifactId>
     <version>1.0</version>
     <modules>
-        <module>zora-common</module>
+        <module>zora-frame</module>
     </modules>
     <packaging>pom</packaging>
 
